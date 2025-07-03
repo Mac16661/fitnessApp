@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to FitHub, this is our final year project. Our team consists of four members: [Falak Gala](https://github.com/FALAK097), [Shubham Sawant](https://github.com/shubham4112), [Aniket Shrungare](https://github.com/aniketsh22) & [Faisal Shah](https://github.com/Faisal2506).
+Welcome to FitHub
 
 FitHub is a web application designed to provide users with personalized workout plans based on their fitness goals and preferences.
 
