@@ -6,7 +6,7 @@ Welcome to FitHub
 
 FitHub is a web application designed to provide users with personalized workout plans based on their fitness goals and preferences.
 
-## Smart Vision (Machine Detection)
+## Smart Vision (Machine Detection) Not implemented perfectly 
 
 1. Image Upload: Users can upload images of gym machines to retrieve insights.
 
