@@ -1,4 +1,4 @@
-# FitHub - AI Enhanced Smart Vision For Fitness Optimization. ([Web Demo](https://fithub-showcase.vercel.app/))
+# FitHub - AI Enhanced Smart Vision For Fitness Optimization.
 
 ## Introduction
 
